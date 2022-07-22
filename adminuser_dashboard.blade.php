@@ -31,7 +31,7 @@
 							      <div style="padding: 50px">
 							      <a class=" buttonstyle btn btn-danger" href="/admin/adminuser">Get In</a>
 							     	</div>
-							      <!-- <p>We love that guy</p> -->
+							     
 							    </div>
 							</div>
 						</div>
@@ -50,7 +50,7 @@
 							      <div style="padding: 50px">
 							      <a class=" buttonstyle btn btn-danger" href="/marketing/customer">Get In</a>
 							     	</div>
-							      <!-- <p>We love that guy</p> -->
+							      
 							    </div>
 							</div>
 						</div>
